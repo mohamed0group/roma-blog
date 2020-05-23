@@ -248,6 +248,6 @@ visitor:
   type:
 
 # Chinese Blog
-# chinese_blog:
-#   enable: true
-#   url: YOUR_CHINESE_BLOG_URL
+chinese_blog:
+  enable: false
+  url: YOUR_CHINESE_BLOG_URL
