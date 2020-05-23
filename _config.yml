@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: RomaKidsShow
+title: Kids Roma Show
 subtitle: Salute, Friends, I am Roma and this is my Kids Channel Kids Roma Show! Subscribe and you will see how interesting childhood can be! Here you are waiting for the best Videos for Kids.
 author: Roma
 language: en
@@ -19,13 +19,13 @@ timezone:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: romakidsshow
+SEOTitle: kids roma show
 email: romaydianashow@gmail.com
 description: "childhood life"
 keyword: "diana and roma, play, for kids, roma and diana, diana, roma, kids roma show, kids playing"
 header-img: img/header_img/80610389_1404089156426851_2484004106692198400_o.jpg
 signature: true #show signature
-signature-img: img/signature/80076264_1404088916426875_1345790404057890816_o.jpg
+signature-img: img/signature/KidsRomaShow.jpg
 
 # SNS settings
 # github_username:    mohamed0group
@@ -248,6 +248,6 @@ visitor:
   type:
 
 # Chinese Blog
-chinese_blog:
-  enable: true
-  url: YOUR_CHINESE_BLOG_URL
+# chinese_blog:
+#   enable: true
+#   url: YOUR_CHINESE_BLOG_URL
